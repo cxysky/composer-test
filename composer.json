@@ -1,0 +1,14 @@
+{
+    "name": "cxysky/composer-test",
+    "description": "2019year composer Manger",
+    "type": "project",
+    "require": {
+        "components/jquery": "*"
+    },
+    "authors": [
+        {
+            "name": "tiancheng",
+            "email": "1686536514@qq.com"
+        }
+    ]
+}
