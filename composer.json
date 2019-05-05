@@ -3,7 +3,7 @@
     "description": "2019year composer Manger",
     "type": "project",
     "require": {
-        "components/jquery": "*"
+        
     },
     "authors": [
         {
