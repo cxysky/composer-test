@@ -1,0 +1,12 @@
+{
+    "name": "cxysky/composer-test",
+    "description": "test compser 2",
+    "type": "project",
+    "authors": [
+        {
+            "name": "tiancheng",
+            "email": "1686536514@qq.com"
+        }
+    ],
+    "require": {}
+}
